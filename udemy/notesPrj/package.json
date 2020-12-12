@@ -1,0 +1,17 @@
+{
+  "name": "notesApp",
+  "version": "1.0.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "nodemon": "^2.0.6",
+    "yargs": "^16.2.0"
+  }
+}
